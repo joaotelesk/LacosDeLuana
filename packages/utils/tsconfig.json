@@ -1,0 +1,3 @@
+{
+  "extends": "@lacosdeluana/tsconfig-commons/base.json"
+}

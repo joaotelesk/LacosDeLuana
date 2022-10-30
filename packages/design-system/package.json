@@ -1,0 +1,16 @@
+{
+  "name": "@lacosdeluana/design-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint './**/*.{ts,tsx}'"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@lacosdeluana/tsconfig-commons": "*",
+    "@lacosdeluana/eslint-commons": "*"
+  }
+}
